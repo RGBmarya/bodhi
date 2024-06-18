@@ -1,5 +1,7 @@
 # Bodhi
 
+<span style="color:orangered">As of June 17, 2024, Bodhi is a component of [Scholarly](https://github.com/RGBmarya/scholarly)<span style="color:red"> 
+
 The goal of Bodhi is to empower novice researchers to quickly understand a field of research. With Bodhi, users can discover the most pivotal papers in a specific area and read them in order of complexity.
 
 ## How it Works
